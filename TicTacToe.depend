@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600447752 source:e:\informatica\work\consola\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
+1600533273 source:e:\informatica\work\tictactoe\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+

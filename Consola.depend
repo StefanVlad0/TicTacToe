@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600447752 source:e:\informatica\work\consola\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
